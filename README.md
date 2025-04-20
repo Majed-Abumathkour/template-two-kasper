@@ -4,7 +4,7 @@ A responsive one-page website built with HTML, CSS, and JavaScript (Will be adde
 
 ## 🖥️ Live Demo
 
-
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-2c8ebb?style=flat-square)](https://majed-abumathkour.github.io/template-two-kasper/)
 
 ## 📸 Screenshots
 
@@ -36,7 +36,9 @@ This project utilizes design resources from the [Kasper One Page PSD Template](h
 
 **Majed Abumathkour**
 
-Feel free to connect with me:
+🎓 Computer Science Student  
+💻 Aspiring Full-Stack Web Developer  
 
-- [GitHub](https://github.com/Majed-Abumathkour)
--  Email: majedabumathkour@gmail.com
+🔗 **Connect with me**:  
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Majed-Abumathkour)  
+- [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:majedabumathkour@gmail.com)
